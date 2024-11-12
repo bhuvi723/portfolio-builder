@@ -48,14 +48,14 @@
         "bio": "Hello! I am johnny, a motivated Computer Science Engineering student with a passion for exploring various technologies.",
         "hyperlink_linkedin": "http://www.linkedin.com/in/johnny29",
         "hyperlink_email": "johnny03@gmail.com",
-        "profile_image": "images\\johnny.jpeg",
-        "download_btn_resume" : "utils\\Resume.pdf"
+        "profile_image": "photos\\johnny.jpeg",
+        "download_btn_resume" : "docs\\Resume.pdf"
     },
     "certificates": [
         {
             "title": "HTML",
             "description": "Certified in static website development, responsive web design with Bootstrap and Flexbox.",
-            "download_btn_project" : "utils\\Resume.pdf"
+            "download_btn_project" : "docs\\Resume.pdf"
         },
         {
             "title": "Python Programming, Machine Learning",
@@ -65,7 +65,7 @@
     ],
     "education_details": [
         {
-            "degree": "B. Tech, HITAM - CSE",
+            "degree": "B. Tech, CBIT - CSE",
             "board": "JNTUH",
             "year": "2025",
             "score": "8.5 CGPA",
@@ -95,19 +95,19 @@
     "projects": [
         {
             "title": "Password Strength Checker",
-            "image": "images\\password.jpg",
+            "image": "photos\\password.jpg",
             "description": "Developed a password strength checker to enhance security using Python.",
-            "download_btn_project1" : "utils\\Resume.pdf"
+            "download_btn_project1" : "docs\\Resume.pdf"
         },
         {
             "title": "Weather Forecasting System",
-            "image": "images\\sonar.jpg",
+            "image": "photos\\sonar.jpg",
             "hyperlink_email" : "https://www.weather.com/",
             "description": "Built a weather forecasting system using Python and APIs."
         },
         {
             "title": "Sonar-Based Mineral Detection",
-            "image": "images\\sonar.jpg",
+            "image": "photos\\sonar.jpg",
             "description": "Developed a sonar-based system for mineral detection using Machine Learning."
         }
     ],
@@ -119,7 +119,7 @@
     ],
     "contact" : [
         {
-        "hyperlink_email" : "kummarigeetha03@gmail.com",
+        "hyperlink_email" : "johnny03@gmail.com",
         "hyperlink_linkedin" : "http://www.linkedin.com/in/johnny29",
         "hyperlink_github": "https://github.com/johnny03",
         "add_dialog_box" : "True"
