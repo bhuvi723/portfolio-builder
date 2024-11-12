@@ -55,7 +55,7 @@
         {
             "title": "HTML",
             "description": "Certified in static website development, responsive web design with Bootstrap and Flexbox.",
-            "download_btn_project" : "docs\\Resume.pdf"
+            "download_btn_project" : "docs/Resume.pdf"
         },
         {
             "title": "Python Programming, Machine Learning",
