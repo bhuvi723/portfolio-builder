@@ -49,13 +49,13 @@
         "hyperlink_linkedin": "http://www.linkedin.com/in/johnny29",
         "hyperlink_email": "johnny03@gmail.com",
         "profile_image": "images\\johnny.jpeg",
-        "download_btn_resume" : "C:\\Users\\Lenovo\\Desktop\\portfolio templatizing\\utils\\Resume.pdf"
+        "download_btn_resume" : "utils\\Resume.pdf"
     },
     "certificates": [
         {
             "title": "HTML",
             "description": "Certified in static website development, responsive web design with Bootstrap and Flexbox.",
-            "download_btn_project" : "C:\\Users\\Lenovo\\Desktop\\portfolio templatizing\\utils\\Resume.pdf"
+            "download_btn_project" : "utils\\Resume.pdf"
         },
         {
             "title": "Python Programming, Machine Learning",
@@ -97,7 +97,7 @@
             "title": "Password Strength Checker",
             "image": "images\\password.jpg",
             "description": "Developed a password strength checker to enhance security using Python.",
-            "download_btn_project1" : "C:\\Users\\Lenovo\\Desktop\\portfolio templatizing\\utils\\Resume.pdf"
+            "download_btn_project1" : "utils\\Resume.pdf"
         },
         {
             "title": "Weather Forecasting System",
