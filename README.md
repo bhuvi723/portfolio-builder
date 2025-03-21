@@ -1,4 +1,4 @@
-# 📄 README
+# 📄 Dynamic Formatted Portfolio Builder
 
 ## 📋 Table of Contents
 - [Introduction](#introduction)
